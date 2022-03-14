@@ -28,11 +28,4 @@
         </ul>
         </nav>
     </body>
-<style>
-    body{
-      background-image: url(https://4.bp.blogspot.com/-suStozktFVI/Vwe1BLhTkhI/AAAAAAAAAmU/0eD6DNjN_eIedRnIl2KVto0QlGN9w0GJQ/s1600/partes-de-computadora.jpg);
-      background-repeat: no-repeat;
-      background-size: center;
-    }
-</style>
 </html>    
